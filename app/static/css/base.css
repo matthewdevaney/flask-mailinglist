@@ -1,0 +1,23 @@
+body, html {
+    height: 100%;
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: #FFFFFF;
+    
+}
+
+.bg {
+    background-image: url(/static/img/rocket-launch-day-illustration.png);
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hello-world {
+    font-weight: bold !important;
+}
